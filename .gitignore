@@ -125,3 +125,7 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+# Firebase related
+lib/firebase_options.dart
+ios/firebase_app_id_fire.json
